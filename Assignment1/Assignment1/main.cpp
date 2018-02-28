@@ -2,6 +2,7 @@
 //lets test the conflicts
 
 #include <iostream>
+#include "Engine.h"
 
 struct sendHelp
 {
