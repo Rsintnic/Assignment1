@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-PrimaryWeapon::PrimaryWeapon(unsigned int _clipSize) : Weapon()
+PrimaryWeapon::PrimaryWeapon(unsigned int _clipSize)
 {
 	if (_clipSize > 0)
 		clipSize = _clipSize;

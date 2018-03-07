@@ -9,7 +9,7 @@
 #include "Pistol.h"
 #include "Player.h"
 
-int main() {
+int main(int argc, char* args[]) {
 	PrimaryWeapon* AR = new AssaultRifle();
 	PrimaryWeapon* BR = new BattleRifle();
 	SecondaryWeapon* P = new Pistol();

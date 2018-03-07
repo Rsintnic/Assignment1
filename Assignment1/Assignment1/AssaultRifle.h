@@ -5,7 +5,6 @@
 class AssaultRifle : public PrimaryWeapon
 {
 private:
-	//std::string name = "Assault Rifle";
 	
 public:
 	AssaultRifle();

@@ -11,3 +11,4 @@ Weapon::Weapon()
 Weapon::~Weapon()
 {
 }
+

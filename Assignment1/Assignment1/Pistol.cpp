@@ -17,7 +17,7 @@ void Pistol::Shoot() {
 		std::cout << "Pling!" << std::endl;
 	}
 	else {
-		std::cout << "Clip is empty 0/" << static_cast<unsigned char>(236) << std::endl;
+		std::cout << "Clip is empty 0/inf" << std::endl;
 	}
 	
 }
